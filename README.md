@@ -1,2 +1,2 @@
-# arjs
-testes com ar e js
+# segundo teste com AR.js
+agora com objeto 3D
